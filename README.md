@@ -14,9 +14,10 @@ def move_zeroes(nums)
 end
 ```
 
-## Problem2
-
 ![Array sorted before and after](https://curriculum-content.s3.amazonaws.com/module-1/whiteboard-challenge/move-zeroes-and-two-sum/Image_118_%20ArraySort_BeforeAfter.png)
+
+
+## Problem2
 
 "Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
 
